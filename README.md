@@ -138,7 +138,7 @@ Some key insights obtained from the dashboard include:
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
+> *(images/dashboard.png)*
 
 Example:
 
