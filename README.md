@@ -136,9 +136,9 @@ Some key insights obtained from the dashboard include:
 
 ---
 
-## 📷 Dashboard Preview
+## ## 📷 Dashboard Preview
 
-> *(images/dashboard.png)*
+![Dashboard](images/dashboard.png)
 
 Example:
 
