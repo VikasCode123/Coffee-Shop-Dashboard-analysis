@@ -139,6 +139,7 @@ Some key insights obtained from the dashboard include:
 ## ## 📷 Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
+
 ## ## 📷 Dashboard Preview
 ![Dashboard](sales excel calculation.png)
 
@@ -147,9 +148,14 @@ Example:
 ```
 images/dashboard.png
 ```
+## ## 📷 Dashboard Preview
+![Dashboard](sales excel calculation.png)
+
+Example:
 
 ---
-
+images/dashboard.png
+```
 ## 📁 Project Structure
 
 ```
