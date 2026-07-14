@@ -139,6 +139,7 @@ Some key insights obtained from the dashboard include:
 ## ## 📷 Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
+![Dashboard](sales excel calculation.png)
 
 Example:
 
